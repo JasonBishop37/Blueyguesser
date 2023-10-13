@@ -1,0 +1,1670 @@
+{
+  "name": {
+    "name": "Bluey",
+    "perLanguage": [{ "name": "Bluey", "language": "en" }]
+  },
+  "originalLanguage": "en",
+  "episodes": [
+    {
+      "season_number": 1,
+      "episode_number": 1,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "The Magic Xylophone",
+          "overview": "As Bluey and Bingo squabble over their magic xylophone (that has the power to freeze Dad in space and time) Dad seizes control and freezes Bluey, leaving Bingo as her only hope."
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 2,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Hospital",
+          "overview": "Doctor Bluey is needed when Dad gets a very curious x-ray from Nurse Bingo. It seems he has a cat in his tummy, leaving Bluey no choice but to operate immediately!"
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 3,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Keepy Uppy",
+          "overview": "Bluey, Bingo and Mum are enjoying playing Keepy-Uppy around the house with their last balloon, when Dad joins in and the game becomes the ultimate test of skill."
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 4,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Daddy Robot",
+          "overview": "Bluey and Bingo don't want to tidy the playroom, so they get Daddy Robot to do it for them. But when Bluey takes things too far, Daddy Robot malfunctions with disastrous results."
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 5,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Shadowlands",
+          "overview": "On a picnic in the park, Bluey and her friends play Shadowlands. But when Coco keeps taking shortcuts, Bluey has to show her that following the rules can make the game more fun."
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 6,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "The Weekend",
+          "overview": "At the weekend, Bluey and Bingo are playing in the garden with Dad. But Bingo gets upset, when she discovers a walking leaf insect and Dad is too caught up in the game to notice."
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 7,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "BBQ",
+          "overview": "It's lunchtime on Bluey's back deck! But every BBQ needs a side salad, so Bingo's relaxing sit-down will have to wait until she finds every colour of capsicum her cousins asked for!"
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 8,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Fruitbat",
+          "overview": "Not wanting to go to bed, Bluey tries to dream about being a nocturnal fruit bat so she can stay up all night long and soon finds herself flying through the night sky."
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 9,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Horsey Ride",
+          "overview": "When Bluey forgets to put her favourite toy away, cousin Socks grabs it and won't let go! The kids stage a horsey wedding to distract her, with Dad and Uncle Stripe as the horses!"
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 10,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Hotel",
+          "overview": "Bluey and Bingo run a crazy \"Hotel\" with Dad as their put upon guest. But when Bingo quits over Bluey being too controlling, Dad needs to teach them the importance of compromise."
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 11,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Bike",
+          "overview": "At the park, Bluey is struggling to learn how to ride her bike. But as she and Dad watch her friends determination with their own tasks, Bluey is inspired to give it another try."
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 12,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Bob Bilby",
+          "overview": "When it's Bingo's turn to bring her Kindy's Bob Bilby puppet home and record their weekend in the scrapbook, the family resolve to put down their screens and show him a good time."
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 13,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Spy Game",
+          "overview": "When Bingo stops playing Bluey's spy game in the park, their device to control the grown-ups stops working properly! Bluey now sees how important Bingo is and needs to win her back!"
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 14,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Takeaway",
+          "overview": "Forced to wait five minutes in front of a restaurant for their takeaway order, Bluey and Bingo become restless for entertainment, pushing the very limits of Dad's patience."
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 15,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Butterflies",
+          "overview": "Playing 'Butterflies' in the backyard is great fun, until Bluey runs away with Judo leaving Bingo all alone. Now poor Bingo's heartbroken and Bluey needs to make amends."
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 16,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Yoga Ball",
+          "overview": "Bingo loves horsing around with Dad, but sometimes he forgets Bingo is smaller than her sister. Mum teaches Bingo how to use her big girl bark to keep their fun within her limits."
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 17,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Calypso",
+          "overview": "At school, Bluey and her friends throw themselves into various games. Teacher Calypso keeps her charges on track with a wise word and a song... all except the mysterious Pretzel."
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 18,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "The Doctor",
+          "overview": "Honey is stuck waiting for Dr Bingo's as the other, more exciting injuries get seen before her. Receptionist Bluey tells her to be patient, some of these cases are a real pickle!"
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 19,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "The Claw",
+          "overview": "When Bluey and Bingo are unable to grab a prize on a Magic Claw machine, Mum and Dad create their own version at home. But Dad isn't about to make winning easy."
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 20,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Markets",
+          "overview": "When Bluey visits the markets with five bucks from the tooth fairy, the options are endless. But as she and Indy scour the stalls for the perfect purchase, spending it proves hard."
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 21,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Blue Mountains",
+          "overview": "Bluey, Bingo, Mum and Dad play a game of hand puppets, exploring the land beyond the Blue Mountains where they outsmart the Cheeky Fox to find the softest beds in the world."
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 22,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "The Pool",
+          "overview": "Packing for the pool, Bluey and Dad tease Mum about being so fussy with what to take. But when they arrive underprepared, they realise a little planning goes a long way."
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 23,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Shops",
+          "overview": "Playing 'Shops' is the best game ever for Bluey and her friends - if they can ever get started! With Bluey questioning the rules and changing who's who, they might be here all day!"
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 24,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Wagonride",
+          "overview": "Bluey can't wait to get to the monkey bars as Dad takes her and Bingo on a wagon ride to the park. But her patience is tested when Dad keeps stopping to chat with other grown-ups."
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 25,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Taxi",
+          "overview": "Bluey is running a taxi service. Her first passenger is Businessman Dad, who is in a rush to get to the airport. But with unexpected delays, Dad's in danger of missing his flight!"
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 26,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "The Beach",
+          "overview": "As Mum goes for a walk along the beach, Bluey runs to catch up with her. Along the way, she has a series of encounters that both excite and test her in her first solo adventure."
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 27,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Pirates",
+          "overview": "Bluey, Bingo and Missy pretend to be pirates on the hamock swing at the park playground. Missy is frightened of the journey on the imaginary ship, but faces her fear to rescue her friends from the inside stomach of a whale."
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 28,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Grannies",
+          "overview": "Bluey and Bingo dress up as grandmothers, but disagree on if grandmothers are able to perform the floss dance or not. Bluey proves that they are not by video calling Nana, but when this upsets Bingo, Bluey decides to teach Nana the dance so that Bingo will keep playing."
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 29,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "The Creek",
+          "overview": "Dad takes Bluey, Bingo and Mackenzie to the creek after they grow tired of the local playground. Bluey struggles to appreciate the beauty of the natural world surrounding her, until they arrive at the water. Bluey learns to step out of her comfort zone and try new things."
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 30,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Fairies",
+          "overview": "When the family suspects that their house has been invaded by fairies, Bluey, Bingo, Mum and Dad go on a hunt to search for and capture the invisible creatures. Dad accidentally hurts Bingo's feelings and makes it up to her by outsmarting the fairies."
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 31,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Work",
+          "overview": "Bluey and Bingo roleplay a day at work. Dad acts as the boss of a drainpipe factory and hires Bluey and Bingo after their successful interviews. The day takes a turn when Bluey takes control of the company and fires Dad for his breach of the strict \"no dancing\" rules."
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 32,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Bumpy and the Wise Old Wolfhound",
+          "overview": "Bingo is sick in hospital, so Bluey and her Dad make, and send her a homemade video to lift her spirits. It tells the tale of Barnicus' quest to heal her spotty dog named Bumpy."
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 33,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Trampoline",
+          "overview": "When Dad has to stop having fun with the girls and go to work, Bluey and Bingo scramble to keep him playing games with them on the trampoline at the same time."
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 34,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "The Dump",
+          "overview": "Dad takes Bluey and Bingo on a car trip to the dump to throw away rubbish. Bluey asks Dad a range of questions on the way and he proclaims that he knows everything. But when they arrive, Bluey is saddened to learn that he is throwing away her old drawings."
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 35,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Zoo",
+          "overview": "Bluey and Bingo set up a pretend zoo at home in the backyard, with Bluey acting as the zookeeper who takes Bingo and Mum on a tour around the grounds. Bluey must devise a plan to catch the baboon (Dad) when he escapes the enclosure and takes Bingo along with him."
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 36,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Backpackers",
+          "overview": "Bluey, Bingo, Muffin and Socks roleplay a pretend backpacking adventure around the backyard. The children become the backpacks as Mum and Dad are tasked with carrying them around while exploring their holiday destination."
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 37,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "The Adventure",
+          "overview": "Bluey plays with Chloe and pretends to be a horse as she accompanies the princess on an imaginary adventure to find food at the family farm. The friends swap roles and adopt a variety of personas as they save the kingdom from an evil queen."
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 38,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Copycat",
+          "overview": "Dad wakes to find Bluey copying his every move. While the pair are playing outside, Bluey finds an injured budgie. They take the bird to the vet and learn that it has died. When they get home, Bluey reenacts the events with Bingo to cope with the budgie's death."
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 39,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "The Sleepover",
+          "overview": "Bluey and Bingo's cousin Muffin arrives for a sleepover in an extremely tired state. Uncle Stripe explains that Muffin is transitioning from her daily naps. The sisters stay up late and play a game with Muffin, before helping her get to sleep when they realise she is exhausted."
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 40,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Early Baby",
+          "overview": "When Rusty and Indy's two separate games at Bluey's playgroup come into conflict, the groups explain their different activities to each other. After sharing, the friends find common ground with their games, and they decide to play together."
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 41,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Mums and Dads",
+          "overview": "While playing \"Mums and Dads\", Rusty and Indy have a disagreement about which parent should work, leading them to play separately. However, when they find that their friends have different ideas about how to play the game, the pair return to playing with each other again."
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 42,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Hide and Seek",
+          "overview": "Bluey plays Hide and Seek with Bingo, Mum and Dad, but is quickly distracted by her toys, leaving her family hiding around the house undiscovered. When she slows down and focuses, Bluey remembers the game and successfully finds her family."
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 43,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Camping",
+          "overview": "Bluey meets a French Labrador called Jean-Luc while on a camping trip with her family. The pair play together and build a camp site, but when Dad acts as a wild pig, the pair must find a way to communicate to combat the pig. Bluey is saddened when Jean-Luc leaves."
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 44,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Mount Mumandad",
+          "overview": "Bluey and Bingo pretend that Mum and Dad are a mountain when they are tasked with playing a game without their parents' participation. Bluey races ahead to reach the summit while Bingo brings along a backpack to carry the climbing equipment."
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 45,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Kids",
+          "overview": "During a visit to the supermarket, Bluey adopts the role of the parent while Dad must act as the child alongside Bingo. When he tries to fill the trolley with the groceries, Dad gets in trouble with Bluey for being a disobedient child."
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 46,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Chickenrat",
+          "overview": "Before bed, Bingo loses her favourite cuddly toy. Mum helps Bluey and Bingo retrace their steps to find the lost item. The siblings recount their adventures as they remember playing with Dad, who was pretending to be a \"chickenrat\" creature."
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 47,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Neighbours",
+          "overview": "Bluey builds a pretend house and gains some new neighbours when Bingo, Mum and Dad move into the street. Bluey must learn to get along with a difficult neighbour when Bingo invades her space and spills over onto her property."
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 48,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Teasing",
+          "overview": "When Bluey teases Bingo, she argues that it is acceptable because Dad always teases her. The family recalls all of the times that Dad has made fun of them, but they ultimately learn that there is a difference between teasing and playing."
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 49,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Asparagus",
+          "overview": "Dad tries to teach Bluey how to use manners while eating dinner at the dining table. However, when Mum gives Bluey a stick of asparagus which magically turns the family into animals, Bluey discovers the importance of manners while trying to control everyone."
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 50,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Shaun",
+          "overview": "Bluey and Bingo try to convince Dad to get a pet, but he insists that they already have a pet; a disobedient emu called Shaun. Dad's hand transforms into Shaun and the siblings learn how to look after their new pet by feeding, bathing and walking him."
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 51,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Daddy Putdown",
+          "overview": "While Mum is out for the night at a friend's baby shower, Dad must put Bluey and Bingo to bed as part of their evening routine. When the siblings are missing their mother, Bluey decides to set up a pretend baby shower of her own to take her mind off her anxiety."
+        }
+      ]
+    },
+    {
+      "season_number": 1,
+      "episode_number": 52,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Verandah Santa",
+          "overview": "It's Christmas Eve and Dad and the kids are taking turns pretending to be Santa! But when Socks nips Bluey and Bluey refuses to leave her a present, they must all learn the true meaning of being good for Christmas."
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 1,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Dance Mode",
+          "overview": "After Dad eats her last chip, Bingo is given three chances to put Mum and Dad in 'Dance Mode' as payback. But the others can't resist taking Bingo's turns for her."
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 2,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Hammerbarn",
+          "overview": "On a trip to Hammerbarn, Bluey and Bingo create their own mini-homes side-by-side in the trolley. But Bluey quickly gets jealous of her neighbour Bingo."
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 3,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Featherwand",
+          "overview": "Bluey and Mum are off to Chloe's party and Bingo isn't invited. But armed with a magic featherwand that makes things incredibly heavy, Bingo can now stop them leaving the house."
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 4,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Squash",
+          "overview": "When Dad and Uncle Stripe play a game of squash, Bluey and Bingo are in control of their every move, and Bingo proves that big siblings don’t always beat little siblings."
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 5,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Hairdressers",
+          "overview": "During a game of hairdressers, Bluey discovers that big-headed customer Bert Handsome has nits! To help treat them, Bingo has to find her voice, while Bluey has to find her ears."
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 6,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Stumpfest",
+          "overview": "Dad and his mates hit the backyard, ready to rip up some tree stumps! But when Bluey and Bingo take over a stump as a nail salon, Dad finds he's got some negotiating to do."
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 7,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Favourite Thing",
+          "overview": "When Bluey accidentally makes Bingo upset playing a game at dinner, she will do anything to make her happy again - even changing the rules of the game. But nothing seems to work."
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 8,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Daddy Dropoff",
+          "overview": "Dad refuses to be late dropping off Bluey and Bingo at kindy and school, but the girls make Dad play so many games, they quickly derail his plan."
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 9,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Bingo",
+          "overview": "When Bluey has a playdate at Chloe's, Bingo must learn how to play by herself. But all the games she knows need more than one person! Luckily Dad has a problem that needs solving."
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 10,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Rug Island",
+          "overview": "On Bingo and Bluey's Rug Island, a pack of felt pens can be anything - bananas, campfires, even a snake! But Dad will need to embrace his inner kid if he wants to make it his home."
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 11,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Charades",
+          "overview": "Bluey and Bingo want everyone to play Charades, but Muffin and Socks are too young to understand the rules and Nanna must think quickly to keep the game on track."
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 12,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Sticky Gecko",
+          "overview": "Mum must get Bluey and Bingo out the door in time for a playdate, but they can't leave before they finish their game - waiting for a sticky rubber gecko to drop from the ceiling."
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 13,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Dad Baby",
+          "overview": "When Dad shows the kids how to use their old baby-harness, a new game is born: Dad Baby! But Dad is unprepared for the harsh realities of giving birth to a baby Bingo."
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 14,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Mum School",
+          "overview": "Bluey plays mum to a brood of bouncy balloons, including an irrepressible floater named Greenie. But she soon discovers that mothering is much harder than she imagined."
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 15,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Trains",
+          "overview": "All aboard the Dad Train! Bingo goes from home to daycare to her job at the vet every morning, but there's trouble on the line as a mischievous Bluey throws everyone off schedule."
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 16,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Army",
+          "overview": "Jack's the new dog at school and the newest recruit in Rusty's army. Jack struggles with following instructions and always forgets his hat but Rusty will make a soldier of him yet."
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 17,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Fancy Restaurant",
+          "overview": "Bingo and Bluey want Mum and Dad to smoochy kiss, so they set up a romantic evening for two at their fancy restaurant. Everything goes to plan until Chef Bingo's special arrives."
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 18,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Piggyback",
+          "overview": "The Heelers take a long riverside walk but Bingo's legs are tired and she wants a piggyback. To distract her, Mum and Dad invent fun games and get her little legs moving again!"
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 19,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "The Show",
+          "overview": "When Bingo drops Mum's breakfast-in-bed on the floor, she's convinced she's ruined her big day. But Bluey helps make amends by putting on a play of how Mum and Dad first met."
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 20,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Tickle Crabs",
+          "overview": "When Dad brings a pair of tenacious tickle crabs home from the beach, nowhere in the house is safe! His only hope of escaping their tickles is with help from his true love."
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 21,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Escape",
+          "overview": "When Mum and Dad describe a made-up world where they can relax without the girls, Bluey and Bingo decide to burst into their fantasy and chase them down. How will Mum and Dad escape?"
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 22,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Bus",
+          "overview": "During a game of bus, passenger Mum is too scared to tell Bus Driver Dad that she secretly loves him, until she gets some help from the Grannies."
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 23,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Queens",
+          "overview": "During a game of Queens, Bluey and Bingo find that playing the butler is much more fun. But someone must play the Queen, even if it means not being afraid of a bit of hard work."
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 24,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Flat Pack",
+          "overview": "While Mum and Dad struggle to build new flat-pack furniture, Bluey and Bingo transform the empty boxes into their own new world."
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 25,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Helicopter",
+          "overview": "At school, Bluey and her friends turn a tree stump into a thrilling game of Helicopter. But as the pilot, Bluey has to learn to give up some control so they can all have fun."
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 26,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Sleepytime",
+          "overview": "Inside Bingo's dream, Bingo and Floppy have an intergalactic adventure, while the rest of her sleep-deprived family try to navigate Bingo's non-stop night-time bedhopping."
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 27,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Grandad",
+          "overview": "Grandad is supposed to be resting, but when Bluey and Bingo go to visit him, he makes a run for it with the kids and takes them on a madcap adventure into the bush."
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 28,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Seesaw",
+          "overview": "Dad has rudely plonked himself on one end of the seesaw. So Bluey and Bingo round up the entire playground to help flip him off, but they still need to find one more friend."
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 29,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Movies",
+          "overview": "It is Bluey's first trip to the cinema, but she's worried that the movie will be too scary. When Bingo starts running amok in the theatre, she must conquer her fear and help Dad out."
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 30,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Library",
+          "overview": "When Muffin is told that she is special by her Dad, she interprets it as an excuse to do anything she wants, which means playing Bluey and Bingo's game of Library her way."
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 31,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Barky Boats",
+          "overview": "Bluey and Mackenzie are excited to spend time with their two buddies Mia and Captain. When the older kids run off to play together without them, Calypso explains that growing up can be hard."
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 32,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Burger Shop",
+          "overview": "It's time for Bluey and Bingo to get out of the bath, but Dad has decided not to tell them what to do and gets roped into a game of Burger Shop."
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 33,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Circus",
+          "overview": "Bluey is the ringmaster in a game of circus with her friends, but Hercules wants to play his motorcycle game instead. Luckily Bluey has a solution to keep everyone happy."
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 34,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Swim School",
+          "overview": "Mum, Dad and Bingo must complete both their classes to pass Swim School but pleasing strict Big Fish instructor Margaret (aka Bluey) is proving very difficult."
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 35,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Cafe",
+          "overview": "In the park Bluey meets a new playmate Winnie, but when Bluey wants to invite her and her dad home for breakfast, she learns that adults take a little bit longer to make friends."
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 36,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Postman and Ground's Lava",
+          "overview": "When Mum and Dad have a disagreement, Bluey makes Dad write a love letter to Mum to make up. Now Bluey must find a way to play Ground's Lava with Bingo and deliver the letter to Mum without squabbling."
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 37,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "The Quiet Game",
+          "overview": "Bluey and Bingo are playing \"The Quiet Game\" and won't use words to tell Dad which toy to buy for Muffin. At his wits end, Dad recruits new store clerk Alfie to help interpret the girls miming."
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 38,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Mr Monkeyjocks",
+          "overview": "Dad thinks the kids have too many toys and suggests a chuck out. To save their beloved Mr Monkeyjocks from getting the chop, Bluey and Bingo must prove he is special."
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 39,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Double Babysitter",
+          "overview": "When Uncle Rad and Frisky accidentally turn up to babysit Bluey and Bingo on the same night, they have to work together to make Bluey feel better about babysitter putdowns."
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 40,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Bad Mood",
+          "overview": "Bingo is playing Bad Mood with Dad, standing on his feet as Dad stomps around the house, controlling everything Bingo does and causing chaos. But how will Bluey get her to snap out of it?"
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 41,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Octopus",
+          "overview": "Chloe is exhilarated while playing \"Octopus\" at Bluey's house, and tries to replicate the experience at home with her own father. Chloe becomes disheartened when her father struggles to play the game with the same zest as Bluey's father. This leads Chloe's father to research the octopus, which helps the duo to improvise and reinvent the activity in their own way."
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 42,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Bin Night",
+          "overview": "Bluey and Bingo help Dad take out the bins at night for rubbish collection, and watch with Mum as the garbage truck arrives the next morning. Over a consecutive few weeks, Bingo recounts how a new student at kindergarten has been calling her names. After initially being tolerant, Bingo eventually finds a way to become friends with her new classmate."
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 43,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Muffin Cone",
+          "overview": "When Muffin won't stop sucking her thumb, Aunt Trixie puts her in a dog collar to help break the habit. Muffin is angered, while Bluey and Bingo are frustrated that their cousin can't play with them due to her restricted movement. The sisters think of games that Muffin will still be able to join in with while wearing her \"cone of shame\"."
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 44,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Duck Cake",
+          "overview": "Dad sets out to prepare a famous duck-shaped cake for Bingo's birthday, which proves to be more difficult than he anticipated. Concurrently, he implores Bluey to clean up her toys, but she struggles to find the motivation to do so. When she sees her father become dispirited while baking, Bluey begins to understand the value of assisting others."
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 45,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Handstand",
+          "overview": "At her birthday party, Bingo attempts to perform a handstand, but feels overlooked when no one seems to notice her. Nana also feels out of place when she realises that no one has a job for her or requires her assistance. Ultimately, Bingo and Nana find each other and Nana watches Bingo as she accomplishes her handstand."
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 46,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Road Trip",
+          "overview": "Mum helps Bluey and Bingo find ways to entertain themselves on a family road trip, while Dad tries to stay ahead of the grey nomad convoy or risk camping near the toilets."
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 47,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Ice Cream",
+          "overview": "Bluey and Bingo want a lick of each other's ice cream. But they are so focused on making sure each lick is fair, they don't notice their ice creams are melting."
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 48,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Dunny",
+          "overview": "Mum bans the girls from saying the word 'dunny' because it's not a word The Queen would use, but the kids try and trick her into saying it anyway."
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 49,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Typewriter",
+          "overview": "Bluey, Snickers and Winton are on their way to ask Calypso for help with their problems, when they are ambushed by the Terriers and use their unique talents to get past."
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 50,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Baby Race",
+          "overview": "Mum reminisces about Bluey and Judo as babies. Bluey learnt to roll over first, but Judo was the first to crawl, so then it became a race to see who was going to walk first!"
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 51,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Christmas Swim",
+          "overview": "The Heelers gather for a classic Aussie Christmas, Bluey gets a new teddy and introduces him to the whole family. But the family play too rough with him and now he wants to go home, until Frisky convinces him to stay."
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episode_number": 52,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Easter",
+          "overview": "Bingo is convinced the Easter Bunny has forgotten them like last year, until Bluey finds a series of clues that leads them on an Easter egg treasure hunt."
+        }
+      ]
+    },
+    {
+      "season_number": 3,
+      "episode_number": 1,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Perfect",
+          "overview": "Bluey's Father's Day card has to be perfect but she can't decide what to draw! So Mum reminds her about all the fun times she's had with Dad and how he's not so perfect either."
+        }
+      ]
+    },
+    {
+      "season_number": 3,
+      "episode_number": 2,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Bedroom",
+          "overview": "Bluey is excited to get her own room. But when bed time comes, she misses Bingo more than she expected and must find a way to stay in touch with her sister."
+        }
+      ]
+    },
+    {
+      "season_number": 3,
+      "episode_number": 3,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Obstacle Course",
+          "overview": "Mum sets up a backyard obstacle course just for fun, but Dad wants to race! Now the kids are determined to win by any means necessary."
+        }
+      ]
+    },
+    {
+      "season_number": 3,
+      "episode_number": 4,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Promises",
+          "overview": "Bluey keeps breaking her promises! But after seeing how much Bingo trusts Mum's word, Bluey learns the power of promises and why it's important not to break them."
+        }
+      ]
+    },
+    {
+      "season_number": 3,
+      "episode_number": 5,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Omelette",
+          "overview": "Bingo is helping Mum make an omelette for Dad's birthday breakfast, but cracking eggs is harder than it looks, and Dad is getting hungrier by the minute."
+        }
+      ]
+    },
+    {
+      "season_number": 3,
+      "episode_number": 6,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Born Yesterday",
+          "overview": "Dad pretends he was born yesterday. Bluey and Bingo have to guide him through his second day on Earth, especially when he discovers food is delicious and steals Lucky's Dad's pie."
+        }
+      ]
+    },
+    {
+      "season_number": 3,
+      "episode_number": 7,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Mini Bluey",
+          "overview": "When Dad complains about how dissimilar Bluey and Bingo are, Bluey hatches a plan to make them more alike and happily introduces Mini Bluey!"
+        }
+      ]
+    },
+    {
+      "season_number": 3,
+      "episode_number": 8,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Unicorse",
+          "overview": "Bluey can't get to sleep, so Mum reads her one last story. But they are interrupted by Unicorse, the most annoying hand puppet in the world, whom Bluey tries to reform."
+        }
+      ]
+    },
+    {
+      "season_number": 3,
+      "episode_number": 9,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Curry Quest",
+          "overview": "Bingo and Dad must brave a swooping magpie protecting its nest, when they go on a curry swap to Mackenzie's house through the park."
+        }
+      ]
+    },
+    {
+      "season_number": 3,
+      "episode_number": 10,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Magic",
+          "overview": "Bluey teaches Bingo how to use magic so she can make Mum play with her, but she forgets to explain the most important rule - never use magic for cheekiness!"
+        }
+      ]
+    },
+    {
+      "season_number": 3,
+      "episode_number": 11,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Chest",
+          "overview": "Dad tries to teach Bluey how to play chess, but Mum thinks she is still too young. When Bingo joins in, the kids make up their own rules, but they still can't beat Dad."
+        }
+      ]
+    },
+    {
+      "season_number": 3,
+      "episode_number": 12,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Sheep Dog",
+          "overview": "Dad agrees to play Sheepdog with Bluey and Bingo to stop them from disturbing Mum who is taking a well-earned rest. But looking after a sheep is harder work than they expected."
+        }
+      ]
+    },
+    {
+      "season_number": 3,
+      "episode_number": 13,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Housework",
+          "overview": "Mum and Dad vow to only finish their boring housework when the kids stop acting silly, but that's never going to happen, so they end up trying the same approach themselves."
+        }
+      ]
+    },
+    {
+      "season_number": 3,
+      "episode_number": 14,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Pass the Parcel",
+          "overview": "Lucky's Dad is outraged that modern Pass the Parcel has a present in every layer and changes the rules back to only having one prize in the middle, but Bingo is forever losing."
+        }
+      ]
+    },
+    {
+      "season_number": 3,
+      "episode_number": 15,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Explorers",
+          "overview": "While waiting to be picked up from school, Jack plays at being a sailor trying to find his way back home to Australia. Meanwhile, Jack's Dad has got lost on route to collect him."
+        }
+      ]
+    },
+    {
+      "season_number": 3,
+      "episode_number": 16,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Phones",
+          "overview": "Bluey and Bingo want to play restaurants with Grandad, but it's a little different than he's used to... he's going to need an app to order the food!"
+        }
+      ]
+    },
+    {
+      "season_number": 3,
+      "episode_number": 17,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Pavlova",
+          "overview": "Mum won't let Bingo have Pavlova, so the kids find a way by playing a cheeky game of Cafe in the kitchen. But Dad the chef sets up a competing shop that only serves edamame beans."
+        }
+      ]
+    },
+    {
+      "season_number": 3,
+      "episode_number": 18,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Rain",
+          "overview": "When a heavy summer rain thunders over the Heeler home, Bluey is determined to dam the water in the front yard, while Mum tries to stop her constantly tracking mud into the house."
+        }
+      ]
+    },
+    {
+      "season_number": 3,
+      "episode_number": 19,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Pizza Girls",
+          "overview": "Bluey and Bingo are making mud pizzas and delivering them to the grownups, but their pedal car's wheel keeps falling off!"
+        }
+      ]
+    },
+    {
+      "season_number": 3,
+      "episode_number": 20,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Driving",
+          "overview": "With only five minutes to play 'Driving', Bluey and Mum race against the clock to buy milk for a grumpy guest and have to escape an angry shopkeeper."
+        }
+      ]
+    },
+    {
+      "season_number": 3,
+      "episode_number": 21,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Tina",
+          "overview": "Tired of being told what to do, Bluey and Bingo enlist their giant invisible friend to show Mum and Dad who's boss. Now they can do anything they want, until Mum and Dad rebel."
+        }
+      ]
+    },
+    {
+      "season_number": 3,
+      "episode_number": 22,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Whale Watching",
+          "overview": "Bluey promises her customer Bingo 'the best tour ever' in a game of Whale Watching, but they need Mum and Dad to join in and they are too tired to play after a late night."
+        }
+      ]
+    },
+    {
+      "season_number": 3,
+      "episode_number": 23,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Family Meeting",
+          "overview": "When Dad's accused of 'fluffing' in Bluey's face as he climbed out of bed, he's put on trial with Mum as the judge and Bluey and Bingo as witnesses. But what was Bluey doing there?"
+        }
+      ]
+    },
+    {
+      "season_number": 3,
+      "episode_number": 24,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Faceytalk",
+          "overview": "Bluey and Bingo love to videochat with Muffin and Socks so they can all draw pictures together. When Muffin won't give Socks a turn, the kids discover what happens when you hog."
+        }
+      ]
+    },
+    {
+      "season_number": 3,
+      "episode_number": 25,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Ragdoll",
+          "overview": "Dad agrees to take Bluey and Bingo to the shops to buy an ice-cream if they can get him into the car. Only problem is... he's just entered 'Ragdoll' mode!"
+        }
+      ]
+    },
+    {
+      "season_number": 3,
+      "episode_number": 26,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Fairytale",
+          "overview": "Dad tells Bluey and Bingo a real-life fairy tale about growing up in a wild place called the 80s, about a boy who was cursed when he was mean to his little brother."
+        }
+      ]
+    },
+    {
+      "season_number": 3,
+      "episode_number": 27,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Musical Statues",
+          "overview": "At the end of a long day, Bluey and her family are out of sync and out of sorts, so Mum gets everyone to play musical statues."
+        }
+      ]
+    },
+    {
+      "season_number": 3,
+      "episode_number": 28,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Stories",
+          "overview": "Indy thinks she's no good because her model horse looks like a cow, but Calypso encourages her not to give up."
+        }
+      ]
+    },
+    {
+      "season_number": 3,
+      "episode_number": 29,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Puppets",
+          "overview": "Bluey and Bingo teach Unicorse good manners so he can ask Mum on a date, but things go sideways when Unicorse eats a tick."
+        }
+      ]
+    },
+    {
+      "season_number": 3,
+      "episode_number": 30,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Turtleboy",
+          "overview": "Bingo finds a toy turtle at the playground and wants to take him home, but Dad says it's not the done thing."
+        }
+      ]
+    },
+    {
+      "season_number": 3,
+      "episode_number": 31,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Onesies",
+          "overview": "When Mum's sister Brandy comes over for a visit, she brings the kids onesies as a present, which has an unexpected effect on Bingo!"
+        }
+      ]
+    },
+    {
+      "season_number": 3,
+      "episode_number": 32,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Tradies",
+          "overview": "Bluey and Bingo hide under the house and spy on two mysterious tradies working in the backyard."
+        }
+      ]
+    },
+    {
+      "season_number": 3,
+      "episode_number": 33,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Granny Mobile",
+          "overview": "Muffin is playing Grouchy Granny on an old mobility scooter at a garage sale, but a real granny wants to buy it!"
+        }
+      ]
+    },
+    {
+      "season_number": 3,
+      "episode_number": 34,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Space",
+          "overview": "Mackenzie, Jack and Rusty are playing as astronauts on a mission to Mars. But Mackenzie keeps going missing and no one knows why!"
+        }
+      ]
+    },
+    {
+      "season_number": 3,
+      "episode_number": 35,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Smoochy Kiss",
+          "overview": "Bluey and Bingo want Dad all to themselves until they discover he has some gross habits."
+        }
+      ]
+    },
+    {
+      "season_number": 3,
+      "episode_number": 36,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Dirt",
+          "overview": "Judo wants to play in the dirt with Bluey and Bingo, but she's not supposed to get dirty!"
+        }
+      ]
+    },
+    {
+      "season_number": 3,
+      "episode_number": 37,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "The Decider",
+          "overview": "The Heelers and Lucky's family get together to watch the big game!"
+        }
+      ]
+    },
+    {
+      "season_number": 3,
+      "episode_number": 38,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Cubby",
+          "overview": "Bluey and Bingo build a very special cubby for their stuffed toy Kimjim."
+        }
+      ]
+    },
+    {
+      "season_number": 3,
+      "episode_number": 39,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Exercise",
+          "overview": "Bingo pretends to be Bluey’s new employee in the middle of Dad’s backyard workout!"
+        }
+      ]
+    },
+    {
+      "season_number": 3,
+      "episode_number": 40,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Relax",
+          "overview": "Bluey and Bingo would rather explore their hotel room instead of relaxing on the beach."
+        }
+      ]
+    },
+    {
+      "season_number": 3,
+      "episode_number": 41,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Stickbird",
+          "overview": "On the beach, Bingo and Dad get creative when they find a stick shaped like a bird’s head."
+        }
+      ]
+    },
+    {
+      "season_number": 3,
+      "episode_number": 42,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Show & Tell",
+          "overview": "Bluey wants to know why Dad’s always bossing her around!"
+        }
+      ]
+    },
+    {
+      "season_number": 3,
+      "episode_number": 43,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Dragon",
+          "overview": "Bluey asks Dad to help her draw a dragon for her story."
+        }
+      ]
+    },
+    {
+      "season_number": 3,
+      "episode_number": 44,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Wild Girls",
+          "overview": "Coco wants to play Wild Girls with Indy, but Chloe wants her to play another game."
+        }
+      ]
+    },
+    {
+      "season_number": 3,
+      "episode_number": 45,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "TV Shop",
+          "overview": "At the chemist, Bluey and Bingo and their friends have fun playing with the CCTV screens."
+        }
+      ]
+    },
+    {
+      "season_number": 3,
+      "episode_number": 46,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Slide",
+          "overview": "Bingo and Lila are excited to play on their new waterslide."
+        }
+      ]
+    },
+    {
+      "season_number": 3,
+      "episode_number": 47,
+      "perLanguage": [
+        {
+          "language": "en",
+          "name": "Cricket",
+          "overview": "During a friendly game of neighbourhood cricket, the dads struggle to bowl Rusty out."
+        }
+      ]
+    }
+  ]
+}
